@@ -11,6 +11,6 @@ Validate Username and password. Upon success login display username on next scre
 
 ![](https://github.com/sivaramgollapudi/Session7Assignment4/blob/master/Session7Assignment4_InValid_User_Toast.png)
 
-<h4> 2. Welcome Page UI </h4>
+<h4> 3. Welcome Page UI </h4>
 
 ![](https://github.com/sivaramgollapudi/Session7Assignment4/blob/master/Session7Assignment4_Welcome_UserName.png)
